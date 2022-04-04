@@ -1,0 +1,2 @@
+source aes_top_compile.tcl
+source aes_top_run.tcl
